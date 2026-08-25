@@ -12,6 +12,9 @@
   margin: 0;
   padding: 0;
 }
+#img_my {
+  background-color: white;
+}
 html {
   scroll-behavior: smooth;
 }
