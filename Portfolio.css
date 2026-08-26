@@ -523,7 +523,7 @@ a {
   margin: auto;
 }
 .contact-section .kicker {
-  color: #626d37;
+  color: #40452c;
 }
 .contact-section h2 {
   font-size: clamp(4rem, 9vw, 9rem);
@@ -694,4 +694,9 @@ footer {
     gap: 15px;
     flex-wrap: wrap;
   }
+}
+
+#em_1 {
+  font-style: normal;
+  color: #0b0b09d1;
 }
